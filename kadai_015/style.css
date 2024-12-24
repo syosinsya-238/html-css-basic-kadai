@@ -1,6 +1,8 @@
+html{
+  font-size: 20px;
+}
 body{
 font-family:"Arial","Meiryo",sans-serif ;
-font-size: 20px;
 text-align: center;
 }
 
@@ -15,7 +17,7 @@ color:rgb(255, 192, 203);
 h1{
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 2rem;
+    font-size: 2rem;
     font-style: normal;
     text-shadow: 1px 1px 2px gray;
     border-bottom:solid 3px rgb(115, 115, 114);
